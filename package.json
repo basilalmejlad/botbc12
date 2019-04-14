@@ -1,8 +1,8 @@
 }
-"name": "test",
-"description": "test",
+"name": "az",
+"description": "az",
 "version": "0.0.0",
-"main": "tt.js"
+"main": "az.js"
 "scripts": {
  "start": "node bot.js"
  },
